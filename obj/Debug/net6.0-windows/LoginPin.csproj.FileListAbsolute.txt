@@ -1,0 +1,17 @@
+C:\Users\Cvijander\source\repos\Relja napredni kurs\LoginPin\LoginPin\bin\Debug\net6.0-windows\LoginPin.exe
+C:\Users\Cvijander\source\repos\Relja napredni kurs\LoginPin\LoginPin\bin\Debug\net6.0-windows\LoginPin.deps.json
+C:\Users\Cvijander\source\repos\Relja napredni kurs\LoginPin\LoginPin\bin\Debug\net6.0-windows\LoginPin.runtimeconfig.json
+C:\Users\Cvijander\source\repos\Relja napredni kurs\LoginPin\LoginPin\bin\Debug\net6.0-windows\LoginPin.dll
+C:\Users\Cvijander\source\repos\Relja napredni kurs\LoginPin\LoginPin\bin\Debug\net6.0-windows\LoginPin.pdb
+C:\Users\Cvijander\source\repos\Relja napredni kurs\LoginPin\LoginPin\obj\Debug\net6.0-windows\LoginPin.csproj.AssemblyReference.cache
+C:\Users\Cvijander\source\repos\Relja napredni kurs\LoginPin\LoginPin\obj\Debug\net6.0-windows\LoginPin.Form1.resources
+C:\Users\Cvijander\source\repos\Relja napredni kurs\LoginPin\LoginPin\obj\Debug\net6.0-windows\LoginPin.csproj.GenerateResource.cache
+C:\Users\Cvijander\source\repos\Relja napredni kurs\LoginPin\LoginPin\obj\Debug\net6.0-windows\LoginPin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cvijander\source\repos\Relja napredni kurs\LoginPin\LoginPin\obj\Debug\net6.0-windows\LoginPin.AssemblyInfoInputs.cache
+C:\Users\Cvijander\source\repos\Relja napredni kurs\LoginPin\LoginPin\obj\Debug\net6.0-windows\LoginPin.AssemblyInfo.cs
+C:\Users\Cvijander\source\repos\Relja napredni kurs\LoginPin\LoginPin\obj\Debug\net6.0-windows\LoginPin.csproj.CoreCompileInputs.cache
+C:\Users\Cvijander\source\repos\Relja napredni kurs\LoginPin\LoginPin\obj\Debug\net6.0-windows\LoginPin.dll
+C:\Users\Cvijander\source\repos\Relja napredni kurs\LoginPin\LoginPin\obj\Debug\net6.0-windows\refint\LoginPin.dll
+C:\Users\Cvijander\source\repos\Relja napredni kurs\LoginPin\LoginPin\obj\Debug\net6.0-windows\LoginPin.pdb
+C:\Users\Cvijander\source\repos\Relja napredni kurs\LoginPin\LoginPin\obj\Debug\net6.0-windows\LoginPin.genruntimeconfig.cache
+C:\Users\Cvijander\source\repos\Relja napredni kurs\LoginPin\LoginPin\obj\Debug\net6.0-windows\ref\LoginPin.dll
